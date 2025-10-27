@@ -1,2 +1,3 @@
-# comvis
-Perbandingan NN vs CNN vc ViT pada Computer Vision
+# Perbandingan NN vs CNN vc ViT pada Computer Vision
+
+
