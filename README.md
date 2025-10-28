@@ -19,11 +19,26 @@ Hasil pengujian dari ketiga model tersebut ditampilkan dalam tabel berikut :
 
 Berikut adalah Grafik Hasil uji Accuracy dan Loss untuk Test dan Validasi dari masing-masing model :
 
+---
 ### LeNet
 ![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/lenet_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/CNN_Lenet_MNIST.ipynb)
 
+----
 ### NN
 ![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/nn_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/CNN_MNIST.ipynb)
 
+---
 ### Vit
 ![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/vit_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/ViT_MNIST.ipynb)
+
+----
+
+
+> [!NOTE]
+> Tulisan ini dibuat untuk pemenuhan tugas Mata Kuliah Computer Vision
+> 
+> Universita Pamulang (Unpam), Tahun 2025
+> 
+> Nama : Doni Fristiyanto
+> 
+> Nim  : 241012000122 
