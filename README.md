@@ -1,7 +1,8 @@
 # Perbandingan NN vs CNN vc ViT pada Computer Vision
 
 Penggunaan Deep Learning dimulai pada tahun 1989 dimana jaringan saraf konvolusional (CNN) pertama, LeNet, dikembangkan oleh Yann LeCun dan timnya untuk pengenalan karakter tulisan tangan.
-Pada tulisan kali ini, kita akan mencoba membandingkan 3 (tiga) model deep learning untuk computer vision dengan menggunakan Pytorch, yaitu :
+
+Pada tulisan kali ini, kami akan mencoba membandingkan 3 (tiga) model deep learning untuk computer vision dengan menggunakan Pytorch, yaitu :
 1. Convolution Neurat Network (CNN) dengan menggunakan arsitektur LeNet
 2. Neural Network (NN) saja
 3. Vision Transformer (Vit)
