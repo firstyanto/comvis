@@ -26,7 +26,7 @@ Berikut adalah Grafik Hasil uji Accuracy dan Loss untuk Test dan Validasi dari m
 
 ----
 ### NN
-![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/nn_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/CNN_MNIST.ipynb)
+![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/nn_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/NN_MNIST.ipynb)
 
 ---
 ### Vit
