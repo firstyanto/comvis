@@ -7,7 +7,7 @@ Pada penelitian kali ini, kami akan mencoba membandingkan 3 (tiga) model deep le
 2. Neural Network (NN) saja
 3. Vision Transformer (Vit)
 
-Seluruh Model dibuat dari scracth, yang bertujuan untuk eksperimen lainnya di kemudian hari. Ketiga model tersebut juga tidak mengharuskan resize gambar ke dimensi tertentu, sehingga komputasi untuk training ketiga model tersebut masih nyaman dilakukan dengan CPU. Dataset yang digunakan adalah dataset MNIST yaitu dataset yang sama digunakan oleh Yann LeCun dalam melatih dan menguji LeNet. Di dalam dataset MNIST terdapat 6000 gambar angka yang berupa tulisan tangan mulai dari angka 0 (nol) sampai dengan 9 (sembilan).
+Seluruh Model dibuat dari scrath, yang bertujuan untuk eksperimen lainnya di kemudian hari. Ketiga model tersebut juga tidak mengharuskan resize gambar ke dimensi tertentu, sehingga komputasi untuk training ketiga model tersebut masih nyaman dilakukan dengan CPU. Dataset yang digunakan adalah dataset MNIST yaitu dataset yang sama digunakan oleh Yann LeCun dalam melatih dan menguji LeNet. Di dalam dataset MNIST terdapat 6000 gambar angka yang berupa tulisan tangan mulai dari angka 0 (nol) sampai dengan 9 (sembilan).
 
 Hasil pengujian dari ketiga model tersebut ditampilkan dalam tabel berikut :
 
