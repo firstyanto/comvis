@@ -1,4 +1,4 @@
-# Perbandingan NN vs CNN vc ViT pada Computer Vision
+# Perbandingan CNN vs NN vs ViT pada Computer Vision
 
 Penggunaan Deep Learning dimulai pada tahun 1989 dimana jaringan saraf konvolusional (CNN) pertama, LeNet, dikembangkan oleh Yann LeCun dan timnya untuk pengenalan karakter tulisan tangan.
 
