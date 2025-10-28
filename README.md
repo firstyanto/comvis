@@ -13,11 +13,17 @@ Hasil pengujian dari ketiga model tersebut ditampilkan dalam tabel berikut :
 | Rank | Model     |  Test Accuracy |  Test Loss  | Validation Accuracy | Validation Loss |
 |-----:|-----------|----------------|-------------|---------------------|-----------------|
 |     1| CNN-LeNet | 0.99548        | 0.01385     | 0.99019             | 0.04113         |
-|     2| NN        |                |             |                     |                 |
-|     3| Vit       |                |             |                     |                 |
+|     2| NN        | 0.99198        | 0.02333     | 0.97856             | 0.08939         |
+|     3| ViT       | 0.90568        | 0.29639     | 0.90575             | 0.28151         |
+###### *Ket : Nilai Accuracy dan Loss yang ditampilkan adalah nilai terbaik dari pengujian
 
-<piture>
-<p align="center">
-<img src="https://github.com/firstyanto/comvis/blob/main/assets/lenet_acc_loss.png" width="480" height="480"/>
-</p>
-</piture>
+Berikut adalah Grafik Hasil uji Accuracy dan Loss untuk Test dan Validasi dari masing-masing model :
+
+### LeNet
+![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/lenet_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/CNN_Lenet_MNIST.ipynb)
+
+### NN
+![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/nn_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/CNN_MNIST.ipynb)
+
+### Vit
+![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/vit_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/ViT_MNIST.ipynb)
