@@ -2,7 +2,7 @@
 
 Penggunaan Deep Learning dimulai pada tahun 1989 dimana jaringan saraf konvolusional (CNN) pertama, LeNet, dikembangkan oleh Yann LeCun dan timnya untuk pengenalan karakter tulisan tangan.
 
-Pada tulisan kali ini, kami akan mencoba membandingkan 3 (tiga) model deep learning untuk computer vision dengan menggunakan Pytorch, yaitu :
+Pada penelitian kali ini, kami akan mencoba membandingkan 3 (tiga) model deep learning untuk computer vision dengan menggunakan Pytorch, yaitu :
 1. Convolution Neurat Network (CNN) dengan menggunakan arsitektur LeNet
 2. Neural Network (NN) saja
 3. Vision Transformer (Vit)
@@ -33,7 +33,9 @@ Berikut adalah Grafik Hasil uji Accuracy dan Loss untuk Test dan Validasi dari m
 ![Hasi uji Accuracy dan Loss mode LeNet](https://github.com/firstyanto/comvis/blob/main/assets/vit_acc_loss.png)(https://github.com/firstyanto/comvis/blob/main/ViT_MNIST.ipynb)
 
 ----
+## Kesimpulan
 
+Dari pengujian ketiga model tersebut terlihat bahwa LeNet masih unggul dibandingkan model Neural Network (NN) dan Vision Transformer (ViT). Vit menunjukan bahwa arsitektur Transformer dapat digunakan dalam Computer Vision. Penelitian ini juga menunjukan model yang menggunakan arsitektur Neural Network saja bisa digunakan untuk klasifikasi dalam Computer Vision, meskipun dengan model yang lebih ringkas.
 
 > [!NOTE]
 > Tulisan ini dibuat untuk pemenuhan tugas Mata Kuliah Computer Vision
